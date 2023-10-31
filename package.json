@@ -1,0 +1,16 @@
+{
+  "name": "front-gps",
+  "version": "1.0.0",
+  "description": "FRONT DE GPS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SERGIO PEREZ",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}

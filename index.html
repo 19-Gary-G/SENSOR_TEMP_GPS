@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Directions</title>
+</head>
+<body>
+  <h1>Directions</h1>
+  <ul id="directions-list"></ul>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+  <script>
+    const socket = io();
+
+    socket.on('directions', (message) => {
+      const directionsList = document.getElementById('directions-list');
+      const listItem = document.createElement('li');
+      listItem.textContent = message;
+      directionsList.appendChild(listItem);
+    });
+  </script>
+</body>
+</html>
