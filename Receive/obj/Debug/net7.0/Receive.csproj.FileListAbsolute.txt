@@ -1,0 +1,34 @@
+D:\Pumam\Escritorio\RabbitMQ\Receive\bin\Debug\net7.0\Receive.exe
+D:\Pumam\Escritorio\RabbitMQ\Receive\bin\Debug\net7.0\Receive.deps.json
+D:\Pumam\Escritorio\RabbitMQ\Receive\bin\Debug\net7.0\Receive.runtimeconfig.json
+D:\Pumam\Escritorio\RabbitMQ\Receive\bin\Debug\net7.0\Receive.dll
+D:\Pumam\Escritorio\RabbitMQ\Receive\bin\Debug\net7.0\Receive.pdb
+D:\Pumam\Escritorio\RabbitMQ\Receive\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\Pumam\Escritorio\RabbitMQ\Receive\obj\Debug\net7.0\Receive.csproj.AssemblyReference.cache
+D:\Pumam\Escritorio\RabbitMQ\Receive\obj\Debug\net7.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pumam\Escritorio\RabbitMQ\Receive\obj\Debug\net7.0\Receive.AssemblyInfoInputs.cache
+D:\Pumam\Escritorio\RabbitMQ\Receive\obj\Debug\net7.0\Receive.AssemblyInfo.cs
+D:\Pumam\Escritorio\RabbitMQ\Receive\obj\Debug\net7.0\Receive.csproj.CoreCompileInputs.cache
+D:\Pumam\Escritorio\RabbitMQ\Receive\obj\Debug\net7.0\Receive.csproj.CopyComplete
+D:\Pumam\Escritorio\RabbitMQ\Receive\obj\Debug\net7.0\Receive.dll
+D:\Pumam\Escritorio\RabbitMQ\Receive\obj\Debug\net7.0\refint\Receive.dll
+D:\Pumam\Escritorio\RabbitMQ\Receive\obj\Debug\net7.0\Receive.pdb
+D:\Pumam\Escritorio\RabbitMQ\Receive\obj\Debug\net7.0\Receive.genruntimeconfig.cache
+D:\Pumam\Escritorio\RabbitMQ\Receive\obj\Debug\net7.0\ref\Receive.dll
+D:\Pumam\Escritorio\UNI SEMESTRE\7 SEMESTRE\INTERNET DE LAS COSAS\FRONT GPS\Receive\bin\Debug\net7.0\Receive.exe
+D:\Pumam\Escritorio\UNI SEMESTRE\7 SEMESTRE\INTERNET DE LAS COSAS\FRONT GPS\Receive\bin\Debug\net7.0\Receive.deps.json
+D:\Pumam\Escritorio\UNI SEMESTRE\7 SEMESTRE\INTERNET DE LAS COSAS\FRONT GPS\Receive\bin\Debug\net7.0\Receive.runtimeconfig.json
+D:\Pumam\Escritorio\UNI SEMESTRE\7 SEMESTRE\INTERNET DE LAS COSAS\FRONT GPS\Receive\bin\Debug\net7.0\Receive.dll
+D:\Pumam\Escritorio\UNI SEMESTRE\7 SEMESTRE\INTERNET DE LAS COSAS\FRONT GPS\Receive\bin\Debug\net7.0\Receive.pdb
+D:\Pumam\Escritorio\UNI SEMESTRE\7 SEMESTRE\INTERNET DE LAS COSAS\FRONT GPS\Receive\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\Pumam\Escritorio\UNI SEMESTRE\7 SEMESTRE\INTERNET DE LAS COSAS\FRONT GPS\Receive\obj\Debug\net7.0\Receive.csproj.AssemblyReference.cache
+D:\Pumam\Escritorio\UNI SEMESTRE\7 SEMESTRE\INTERNET DE LAS COSAS\FRONT GPS\Receive\obj\Debug\net7.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pumam\Escritorio\UNI SEMESTRE\7 SEMESTRE\INTERNET DE LAS COSAS\FRONT GPS\Receive\obj\Debug\net7.0\Receive.AssemblyInfoInputs.cache
+D:\Pumam\Escritorio\UNI SEMESTRE\7 SEMESTRE\INTERNET DE LAS COSAS\FRONT GPS\Receive\obj\Debug\net7.0\Receive.AssemblyInfo.cs
+D:\Pumam\Escritorio\UNI SEMESTRE\7 SEMESTRE\INTERNET DE LAS COSAS\FRONT GPS\Receive\obj\Debug\net7.0\Receive.csproj.CoreCompileInputs.cache
+D:\Pumam\Escritorio\UNI SEMESTRE\7 SEMESTRE\INTERNET DE LAS COSAS\FRONT GPS\Receive\obj\Debug\net7.0\Receive.csproj.CopyComplete
+D:\Pumam\Escritorio\UNI SEMESTRE\7 SEMESTRE\INTERNET DE LAS COSAS\FRONT GPS\Receive\obj\Debug\net7.0\Receive.dll
+D:\Pumam\Escritorio\UNI SEMESTRE\7 SEMESTRE\INTERNET DE LAS COSAS\FRONT GPS\Receive\obj\Debug\net7.0\refint\Receive.dll
+D:\Pumam\Escritorio\UNI SEMESTRE\7 SEMESTRE\INTERNET DE LAS COSAS\FRONT GPS\Receive\obj\Debug\net7.0\Receive.pdb
+D:\Pumam\Escritorio\UNI SEMESTRE\7 SEMESTRE\INTERNET DE LAS COSAS\FRONT GPS\Receive\obj\Debug\net7.0\Receive.genruntimeconfig.cache
+D:\Pumam\Escritorio\UNI SEMESTRE\7 SEMESTRE\INTERNET DE LAS COSAS\FRONT GPS\Receive\obj\Debug\net7.0\ref\Receive.dll

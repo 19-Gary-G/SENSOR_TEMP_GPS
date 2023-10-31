@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KEvywBhXrw3VYPsk1DFjH6bvBm6p990q2+M2L4nVE6gnX22tCXay51zzl+H3DdQ7OHmcluk3K9h3+hRFtwOhlw==",
+  "success": true,
+  "projectFilePath": "D:\\Pumam\\Escritorio\\UNI SEMESTRE\\7 SEMESTRE\\INTERNET DE LAS COSAS\\FRONT GPS\\Receive\\Receive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pumam\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\Pumam\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Pumam\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
